@@ -1,11 +1,11 @@
 # LoopBack-Tutorial
 
 Tools Used<br>
-LoopBack: Node.js framework for building APIs.
-Node.js: JavaScript runtime.
-curl: Command-line tool for testing APIs.
+LoopBack: Node.js framework for building APIs.<br>
+Node.js: JavaScript runtime.<br>
+curl: Command-line tool for testing APIs.<br>
 
-Steps to Generate the API
+Steps to Generate the API<br>
 1)Install LoopBack CLI:
 npm install -g @loopback/cli
 
