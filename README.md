@@ -1,6 +1,6 @@
 # LoopBack-Tutorial
 
-Tools Used
+Tools Used<br>
 LoopBack: Node.js framework for building APIs.
 Node.js: JavaScript runtime.
 curl: Command-line tool for testing APIs.
@@ -24,7 +24,7 @@ lb4 controller
 6)Run the Application:
 npm start
 
-7)Test the API using Postman with endpoints like:
+7)Test the API using Postman with endpoints like:<br>
 a)curl -X POST http://localhost:3000/books -H "Content-Type: application/json" -d "{\"title\": \"The Great Gatsby\", \"author\": \"F. Scott Fitzgerald\", \"yearPublished\": 1925}"
 {"id":3,"yearPublished":1925,"title":"The Great Gatsby","author":"F. Scott Fitzgerald"}
 
